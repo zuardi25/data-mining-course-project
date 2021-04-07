@@ -518,9 +518,3 @@ cat("nnet: ",
     "Fmeasure: ", full_fmeasure_cv/100, "\n")
 holdout <- c(1:100)
 plot(holdout, list_fmeasure_cv, type="o")
-
-#KNN
-
-
-
-#---Perbandingan Kinerja---
