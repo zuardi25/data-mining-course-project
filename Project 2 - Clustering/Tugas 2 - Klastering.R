@@ -1,4 +1,4 @@
-setwd("E:/KULIAH/Tugas/Semester 6 (T)/PDT/Tugas 2 - Klastering")
+setwd(".../Tugas 2 - Klastering")
 library(readr)
 data <- read_csv("Tugas Klp #2 Data 1.csv")
 colnames(data) <- c('sex','length','diameter','height','whole_weight',
