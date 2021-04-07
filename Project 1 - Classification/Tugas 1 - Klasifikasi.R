@@ -1,4 +1,4 @@
-setwd("E:/KULIAH/Tugas/Semester 6 (T)/PDT/Tugas 1 - Klasifikasi")
+setwd(".../Tugas 1 - Klasifikasi")
 
 #---Klasifikasi non-Numeric----
 #--PRAPROSES--
