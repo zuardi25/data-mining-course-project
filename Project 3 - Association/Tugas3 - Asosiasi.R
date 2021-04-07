@@ -1,4 +1,4 @@
-setwd("E:/KULIAH/Tugas/Semester 6 (T)/PDT/Tugas 3 - Asosiasi")
+setwd(".../Tugas 3 - Asosiasi")
 library(readr)
 data <- read_delim("Tugas Klp #1 Data.csv", 
                    ";", escape_double = FALSE, trim_ws = TRUE)
